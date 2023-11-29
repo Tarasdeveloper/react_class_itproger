@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_class_itproger/static/css/main.66b26276.css",
+    "main.js": "/react_class_itproger/static/js/main.10cf9230.js",
+    "index.html": "/react_class_itproger/index.html",
+    "main.66b26276.css.map": "/react_class_itproger/static/css/main.66b26276.css.map",
+    "main.10cf9230.js.map": "/react_class_itproger/static/js/main.10cf9230.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66b26276.css",
+    "static/js/main.10cf9230.js"
+  ]
+}
